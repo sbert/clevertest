@@ -15,11 +15,11 @@
     <packaging>jar</packaging>
 
     <properties>
-        <java.version>8</java.version>
+        <java.version>7</java.version>
         <start-class>com.sbert.clevercloud.Application</start-class>
 
-            <source>1.8</source>
-            <target>1.8</target>
+            <source>1.7</source>
+            <target>1.7</target>
 
     </properties>
 
